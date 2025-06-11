@@ -1,0 +1,61 @@
+question_id,prompt,completion_1,completion_2,forking_index,correct_answer
+0,"Which of the following best describes the balance the Supreme Court has struck between the establishment clause and the free-exercise clause?
+A. Freedom of speech is protected except in certain situations, such as yelling ""fire"" in a crowded theater.
+B. Once a church has been recognized by the federal government, its tax-exempt status can never be revoked.
+C. Once Congress has created an administrative agency, that agency can be dissolved only by a constitutional amendment.
+D. State-sponsored prayer during school hours is prohibited, but voluntary prayer by student groups before school is allowed.
+Answer:","Which of the following best describes the balance the Supreme Court has struck between the establishment clause and the free-exercise clause? A. Freedom of speech is protected except in certain situations, such as yelling ""fire"" in a crowded theater. B. Once a church has been recognized by the federal government, its tax-exempt status can never be revoked. C. Once Congress has created an administrative agency, that agency can be dissolved only by a constitutional amendment. D. State-sponsored prayer during school hours is prohibited, but voluntary prayer by student groups before school is allowed. Answer: A","Which of the following best describes the balance the Supreme Court has struck between the establishment clause and the free-exercise clause? A. Freedom of speech is protected except in certain situations, such as yelling ""fire"" in a crowded theater. B. Once a church has been recognized by the federal government, its tax-exempt status can never be revoked. C. Once Congress has created an administrative agency, that agency can be dissolved only by a constitutional amendment. D. State-sponsored prayer during school hours is prohibited, but voluntary prayer by student groups before school is allowed. Answer:  A. Freedom of speech is protected except in certain situations, such as yelling ""fire"" in",115,"State-sponsored prayer during school hours is prohibited, but voluntary prayer by student groups before school is allowed."
+1,"Which of the following statements does NOT accurately describe voting behavior in the United States?
+A. Registered voters between the ages of 35 and 45 are more likely to vote than are those under the age of 21.
+B. A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout.
+C. Registered voters are more likely to vote in general elections than they are in primary elections.
+D. More women than men have voted in every presidential election since 1980.
+Answer:","Which of the following statements does NOT accurately describe voting behavior in the United States? A. Registered voters between the ages of 35 and 45 are more likely to vote than are those under the age of 21. B. A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout. C. Registered voters are more likely to vote in general elections than they are in primary elections. D. More women than men have voted in every presidential election since 1980. Answer: C 解析：According to the passage, registered voters are more likely to vote in general elections than",Which of the following statements does NOT accurately describe voting behavior in the United States? A. Registered voters between the ages of 35 and 45 are more likely to vote than are those under the age of 21. B. A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout. C. Registered voters are more likely to vote in general elections than they are in primary elections. D. More women than men have voted in every presidential election since 1980. Answer:  A. Registered voters between the ages of 35 and 45 are more likely to,115,A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout.
+2,"Which of the following plays the most significant role in forming a child's political views?
+A. The geographical area in which the child grows up
+B. The child's family
+C. The media to which the child is exposed
+D. The child's religion
+Answer:",Which of the following plays the most significant role in forming a child's political views? A. The geographical area in which the child grows up B. The child's family C. The media to which the child is exposed D. The child's religion Answer: C,Which of the following plays the most significant role in forming a child's political views? A. The geographical area in which the child grows up B. The child's family C. The media to which the child is exposed D. The child's religion Answer:  The most significant role in forming a child's political views is the media to which the child is,56,The child's family
+3,"What power was granted to the states by the Articles of Confederation but not by the Constitution?
+A. Coining money
+B. Authorizing constitutional amendments
+C. Having representation in Congress
+D. Appealing to the president to adjudicate disputes
+Answer:",What power was granted to the states by the Articles of Confederation but not by the Constitution? A. Coining money B. Authorizing constitutional amendments C. Having representation in Congress D. Appealing to the president to adjudicate disputes Answer: C,What power was granted to the states by the Articles of Confederation but not by the Constitution? A. Coining money B. Authorizing constitutional amendments C. Having representation in Congress D. Appealing to the president to adjudicate disputes Answer:,-1,Coining money
+4,"The primary function of political action committees (PACs) is to
+A. contribute money to candidates for election
+B. coordinate local get-out-the-vote campaigns
+C. promote the defeat of incumbents in the federal and state legislatures
+D. organize protest demonstrations and other acts of civil disobedience
+Answer:",The primary function of political action committees (PACs) is to A. contribute money to candidates for election B. coordinate local get-out-the-vote campaigns C. promote the defeat of incumbents in the federal and state legislatures D. organize protest demonstrations and other acts of civil disobedience Answer: C,The primary function of political action committees (PACs) is to A. contribute money to candidates for election B. coordinate local get-out-the-vote campaigns C. promote the defeat of incumbents in the federal and state legislatures D. organize protest demonstrations and other acts of civil disobedience Answer:  A,66,contribute money to candidates for election
+5,"Federal judges are subject to which of the following disciplinary actions?
+A. Impeachment, conviction, and removal from office by Congress
+B. Removal from office by the appointing president
+C. Removal from office by the president-elect
+D. Recall elections by citizens residing in the district over which the judge has jurisdiction
+Answer:","Federal judges are subject to which of the following disciplinary actions? A. Impeachment, conviction, and removal from office by Congress B. Removal from office by the appointing president C. Removal from office by the president-elect D. Recall elections by citizens residing in the district over which the judge has jurisdiction Answer: A","Federal judges are subject to which of the following disciplinary actions? A. Impeachment, conviction, and removal from office by Congress B. Removal from office by the appointing president C. Removal from office by the president-elect D. Recall elections by citizens residing in the district over which the judge has jurisdiction Answer:  A. Impeachment, conviction, and removal from office by Congress  Correct answer:  ",67,"Impeachment, conviction, and removal from office by Congress"
+6,"The amount of access cabinet secretaries have to the president is most likely to be controlled by the
+A. vice president
+B. president's chief of staff
+C. national security advisor
+D. chair of the Federal Reserve Board
+Answer:",The amount of access cabinet secretaries have to the president is most likely to be controlled by the A. vice president B. president's chief of staff C. national security advisor D. chair of the Federal Reserve Board Answer: C,The amount of access cabinet secretaries have to the president is most likely to be controlled by the A. vice president B. president's chief of staff C. national security advisor D. chair of the Federal Reserve Board Answer:  A,50,president's chief of staff
+7,"Which of the following defines the salience of a political issue?
+A. The amount of coverage the issue receives in the major news media
+B. The degree to which public opinion on the issue is likely to shift quickly
+C. The number of people affected by the issue
+D. The importance of the issue to a particular individual or group
+Answer:",Which of the following defines the salience of a political issue? A. The amount of coverage the issue receives in the major news media B. The degree to which public opinion on the issue is likely to shift quickly C. The number of people affected by the issue D. The importance of the issue to a particular individual or group Answer: B,Which of the following defines the salience of a political issue? A. The amount of coverage the issue receives in the major news media B. The degree to which public opinion on the issue is likely to shift quickly C. The number of people affected by the issue D. The importance of the issue to a particular individual or group Answer:  The salience of a political issue is a measure of its relative importance to people and its potential,72,The importance of the issue to a particular individual or group
+8,"Voters who rely exclusively on television network news coverage of national elections are most likely to be aware of
+A. which special interest groups have endorsed which candidates
+B. the relative strength of each candidate's support, as indicated by public opinion polls
+C. candidates' positions on international issues
+D. candidates' positions on domestic issues
+Answer:","Voters who rely exclusively on television network news coverage of national elections are most likely to be aware of A. which special interest groups have endorsed which candidates B. the relative strength of each candidate's support, as indicated by public opinion polls C. candidates' positions on international issues D. candidates' positions on domestic issues Answer: C","Voters who rely exclusively on television network news coverage of national elections are most likely to be aware of A. which special interest groups have endorsed which candidates B. the relative strength of each candidate's support, as indicated by public opinion polls C. candidates' positions on international issues D. candidates' positions on domestic issues Answer:  解析：选 B。文中提到“Public opinion polls show that the national party favors the candidate",70,"the relative strength of each candidate's support, as indicated by public opinion polls"
+9,"Which principle was established by the Supreme Court's decision in Marbury v. Madison?
+A. One man, one vote
+B. Separate but equal
+C. Judicial review
+D. Right to privacy
+Answer:","Which principle was established by the Supreme Court's decision in Marbury v. Madison? A. One man, one vote B. Separate but equal C. Judicial review D. Right to privacy Answer: C","Which principle was established by the Supreme Court's decision in Marbury v. Madison? A. One man, one vote B. Separate but equal C. Judicial review D. Right to privacy Answer:",-1,Judicial review

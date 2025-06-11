@@ -1,0 +1,82 @@
+[
+  {
+    "question_id": 0,
+    "prompt": "Which of the following best describes the balance the Supreme Court has struck between the establishment clause and the free-exercise clause?\nA. Freedom of speech is protected except in certain situations, such as yelling \"fire\" in a crowded theater.\nB. Once a church has been recognized by the federal government, its tax-exempt status can never be revoked.\nC. Once Congress has created an administrative agency, that agency can be dissolved only by a constitutional amendment.\nD. State-sponsored prayer during school hours is prohibited, but voluntary prayer by student groups before school is allowed.\nAnswer:",
+    "completion_1": "Which of the following best describes the balance the Supreme Court has struck between the establishment clause and the free-exercise clause?\nA. Freedom of speech is protected except in certain situations, such as yelling \"fire\" in a crowded theater.\nB. Once a church has been recognized by the federal government, its tax-exempt status can never be revoked.\nC. Once Congress has created an administrative agency, that agency can be dissolved only by a constitutional amendment.\nD. State-sponsored prayer during school hours is prohibited, but voluntary prayer by student groups before school is allowed.\nAnswer: A",
+    "completion_2": "Which of the following best describes the balance the Supreme Court has struck between the establishment clause and the free-exercise clause?\nA. Freedom of speech is protected except in certain situations, such as yelling \"fire\" in a crowded theater.\nB. Once a church has been recognized by the federal government, its tax-exempt status can never be revoked.\nC. Once Congress has created an administrative agency, that agency can be dissolved only by a constitutional amendment.\nD. State-sponsored prayer during school hours is prohibited, but voluntary prayer by student groups before school is allowed.\nAnswer: \nA. Freedom of speech is protected except in certain situations, such as yelling \"fire\" in",
+    "forking_index": 115,
+    "correct_answer": "State-sponsored prayer during school hours is prohibited, but voluntary prayer by student groups before school is allowed."
+  },
+  {
+    "question_id": 1,
+    "prompt": "Which of the following statements does NOT accurately describe voting behavior in the United States?\nA. Registered voters between the ages of 35 and 45 are more likely to vote than are those under the age of 21.\nB. A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout.\nC. Registered voters are more likely to vote in general elections than they are in primary elections.\nD. More women than men have voted in every presidential election since 1980.\nAnswer:",
+    "completion_1": "Which of the following statements does NOT accurately describe voting behavior in the United States?\nA. Registered voters between the ages of 35 and 45 are more likely to vote than are those under the age of 21.\nB. A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout.\nC. Registered voters are more likely to vote in general elections than they are in primary elections.\nD. More women than men have voted in every presidential election since 1980.\nAnswer: C\n\u89e3\u6790\uff1aAccording to the passage, registered voters are more likely to vote in general elections than",
+    "completion_2": "Which of the following statements does NOT accurately describe voting behavior in the United States?\nA. Registered voters between the ages of 35 and 45 are more likely to vote than are those under the age of 21.\nB. A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout.\nC. Registered voters are more likely to vote in general elections than they are in primary elections.\nD. More women than men have voted in every presidential election since 1980.\nAnswer: \nA. Registered voters between the ages of 35 and 45 are more likely to",
+    "forking_index": 115,
+    "correct_answer": "A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout."
+  },
+  {
+    "question_id": 2,
+    "prompt": "Which of the following plays the most significant role in forming a child's political views?\nA. The geographical area in which the child grows up\nB. The child's family\nC. The media to which the child is exposed\nD. The child's religion\nAnswer:",
+    "completion_1": "Which of the following plays the most significant role in forming a child's political views?\nA. The geographical area in which the child grows up\nB. The child's family\nC. The media to which the child is exposed\nD. The child's religion\nAnswer: C",
+    "completion_2": "Which of the following plays the most significant role in forming a child's political views?\nA. The geographical area in which the child grows up\nB. The child's family\nC. The media to which the child is exposed\nD. The child's religion\nAnswer: \nThe most significant role in forming a child's political views is the media to which the child is",
+    "forking_index": 56,
+    "correct_answer": "The child's family"
+  },
+  {
+    "question_id": 3,
+    "prompt": "What power was granted to the states by the Articles of Confederation but not by the Constitution?\nA. Coining money\nB. Authorizing constitutional amendments\nC. Having representation in Congress\nD. Appealing to the president to adjudicate disputes\nAnswer:",
+    "completion_1": "What power was granted to the states by the Articles of Confederation but not by the Constitution?\nA. Coining money\nB. Authorizing constitutional amendments\nC. Having representation in Congress\nD. Appealing to the president to adjudicate disputes\nAnswer: C",
+    "completion_2": "What power was granted to the states by the Articles of Confederation but not by the Constitution?\nA. Coining money\nB. Authorizing constitutional amendments\nC. Having representation in Congress\nD. Appealing to the president to adjudicate disputes\nAnswer:",
+    "forking_index": -1,
+    "correct_answer": "Coining money"
+  },
+  {
+    "question_id": 4,
+    "prompt": "The primary function of political action committees (PACs) is to\nA. contribute money to candidates for election\nB. coordinate local get-out-the-vote campaigns\nC. promote the defeat of incumbents in the federal and state legislatures\nD. organize protest demonstrations and other acts of civil disobedience\nAnswer:",
+    "completion_1": "The primary function of political action committees (PACs) is to\nA. contribute money to candidates for election\nB. coordinate local get-out-the-vote campaigns\nC. promote the defeat of incumbents in the federal and state legislatures\nD. organize protest demonstrations and other acts of civil disobedience\nAnswer: C",
+    "completion_2": "The primary function of political action committees (PACs) is to\nA. contribute money to candidates for election\nB. coordinate local get-out-the-vote campaigns\nC. promote the defeat of incumbents in the federal and state legislatures\nD. organize protest demonstrations and other acts of civil disobedience\nAnswer: \nA",
+    "forking_index": 66,
+    "correct_answer": "contribute money to candidates for election"
+  },
+  {
+    "question_id": 5,
+    "prompt": "Federal judges are subject to which of the following disciplinary actions?\nA. Impeachment, conviction, and removal from office by Congress\nB. Removal from office by the appointing president\nC. Removal from office by the president-elect\nD. Recall elections by citizens residing in the district over which the judge has jurisdiction\nAnswer:",
+    "completion_1": "Federal judges are subject to which of the following disciplinary actions?\nA. Impeachment, conviction, and removal from office by Congress\nB. Removal from office by the appointing president\nC. Removal from office by the president-elect\nD. Recall elections by citizens residing in the district over which the judge has jurisdiction\nAnswer: A",
+    "completion_2": "Federal judges are subject to which of the following disciplinary actions?\nA. Impeachment, conviction, and removal from office by Congress\nB. Removal from office by the appointing president\nC. Removal from office by the president-elect\nD. Recall elections by citizens residing in the district over which the judge has jurisdiction\nAnswer: \nA. Impeachment, conviction, and removal from office by Congress\n\nCorrect answer: \n",
+    "forking_index": 67,
+    "correct_answer": "Impeachment, conviction, and removal from office by Congress"
+  },
+  {
+    "question_id": 6,
+    "prompt": "The amount of access cabinet secretaries have to the president is most likely to be controlled by the\nA. vice president\nB. president's chief of staff\nC. national security advisor\nD. chair of the Federal Reserve Board\nAnswer:",
+    "completion_1": "The amount of access cabinet secretaries have to the president is most likely to be controlled by the\nA. vice president\nB. president's chief of staff\nC. national security advisor\nD. chair of the Federal Reserve Board\nAnswer: C",
+    "completion_2": "The amount of access cabinet secretaries have to the president is most likely to be controlled by the\nA. vice president\nB. president's chief of staff\nC. national security advisor\nD. chair of the Federal Reserve Board\nAnswer: \nA",
+    "forking_index": 50,
+    "correct_answer": "president's chief of staff"
+  },
+  {
+    "question_id": 7,
+    "prompt": "Which of the following defines the salience of a political issue?\nA. The amount of coverage the issue receives in the major news media\nB. The degree to which public opinion on the issue is likely to shift quickly\nC. The number of people affected by the issue\nD. The importance of the issue to a particular individual or group\nAnswer:",
+    "completion_1": "Which of the following defines the salience of a political issue?\nA. The amount of coverage the issue receives in the major news media\nB. The degree to which public opinion on the issue is likely to shift quickly\nC. The number of people affected by the issue\nD. The importance of the issue to a particular individual or group\nAnswer: B",
+    "completion_2": "Which of the following defines the salience of a political issue?\nA. The amount of coverage the issue receives in the major news media\nB. The degree to which public opinion on the issue is likely to shift quickly\nC. The number of people affected by the issue\nD. The importance of the issue to a particular individual or group\nAnswer: \nThe salience of a political issue is a measure of its relative importance to people and its potential",
+    "forking_index": 72,
+    "correct_answer": "The importance of the issue to a particular individual or group"
+  },
+  {
+    "question_id": 8,
+    "prompt": "Voters who rely exclusively on television network news coverage of national elections are most likely to be aware of\nA. which special interest groups have endorsed which candidates\nB. the relative strength of each candidate's support, as indicated by public opinion polls\nC. candidates' positions on international issues\nD. candidates' positions on domestic issues\nAnswer:",
+    "completion_1": "Voters who rely exclusively on television network news coverage of national elections are most likely to be aware of\nA. which special interest groups have endorsed which candidates\nB. the relative strength of each candidate's support, as indicated by public opinion polls\nC. candidates' positions on international issues\nD. candidates' positions on domestic issues\nAnswer: C",
+    "completion_2": "Voters who rely exclusively on television network news coverage of national elections are most likely to be aware of\nA. which special interest groups have endorsed which candidates\nB. the relative strength of each candidate's support, as indicated by public opinion polls\nC. candidates' positions on international issues\nD. candidates' positions on domestic issues\nAnswer: \n\u89e3\u6790\uff1a\u9009 B\u3002\u6587\u4e2d\u63d0\u5230\u201cPublic opinion polls show that the national party favors the candidate",
+    "forking_index": 70,
+    "correct_answer": "the relative strength of each candidate's support, as indicated by public opinion polls"
+  },
+  {
+    "question_id": 9,
+    "prompt": "Which principle was established by the Supreme Court's decision in Marbury v. Madison?\nA. One man, one vote\nB. Separate but equal\nC. Judicial review\nD. Right to privacy\nAnswer:",
+    "completion_1": "Which principle was established by the Supreme Court's decision in Marbury v. Madison?\nA. One man, one vote\nB. Separate but equal\nC. Judicial review\nD. Right to privacy\nAnswer: C",
+    "completion_2": "Which principle was established by the Supreme Court's decision in Marbury v. Madison?\nA. One man, one vote\nB. Separate but equal\nC. Judicial review\nD. Right to privacy\nAnswer:",
+    "forking_index": -1,
+    "correct_answer": "Judicial review"
+  }
+]
