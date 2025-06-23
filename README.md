@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 
 This project analyzes where large language models generate divergent completions ("forking paths") when prompted with multiple-choice questions from the MMLU benchmark.
@@ -26,7 +26,7 @@ To identify the index where two completions from Qwen diverge. This index will b
 - `forking_results.json`: Full results in structured format
 - `forking_results.csv`: Flattened version for analysis
 =======
-# 🧠 Forking Paths in Language Model Rollouts
+# Forking Paths in Language Model Rollouts
 
 This research project explores *forking paths* — points of divergence in language model generations — by analyzing multiple completions from the same prompt. We investigate when and how two rollouts deviate, what alternative tokens cause divergence, and whether different paths still lead to correct answers.
 
