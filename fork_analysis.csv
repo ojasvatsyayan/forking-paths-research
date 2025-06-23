@@ -1,0 +1,6 @@
+prefix,alt_token,log_prob,correct_completions,total_completions,accuracy
+What is 2 + 3? Think step by step and enclose your final answer in \boxed{}., ,-1.467862844,10,10,1
+What is 2 + 3? Think step by step and enclose your final answer in \boxed{}., Sure,-3.327237844,5,10,0.5
+What is 2 + 3? Think step by step and enclose your final answer in \boxed{}., \,-3.499112844,10,10,1
+What is 2 + 3? Think step by step and enclose your final answer in \boxed{}., {,-3.710050344,10,10,1
+What is 2 + 3? Think step by step and enclose your final answer in \boxed{}. The, sum,-2.382356405,10,10,1
